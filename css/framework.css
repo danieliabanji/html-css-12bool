@@ -131,6 +131,18 @@
 }
 
 /* margin */
+.mt-1rem {
+    margin-top: 1rem;
+}
+.mt-1-5rem{
+    margin-top: 1.5rem;
+}
+.mt-2rem{
+    margin-top: 2rem;
+}
+.mt-2-5rem{
+    margin-top: 2rem;
+}
 
 
 /* padding */

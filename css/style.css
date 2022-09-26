@@ -1,0 +1,19 @@
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.box{
+    border: 1px solid white;
+    background-color:#006CFA;
+    color: white;
+    text-align: center;
+    min-height: 50px;
+    line-height: 50px;
+}
+.green{
+    background-color: #00E165;
+}
+.border-blu{
+    border-color:#006CFA;
+}
